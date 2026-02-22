@@ -29,7 +29,7 @@ Hinter MineVoxel steckt ein kleines, aber engagiertes Team, das mit viel Herzblu
 ```
   Stabilität   ████████████████████  Höchste Priorität
   Sicherheit   ███████████████████░  Enterprise-Grade
-  Community    ████████████████░░░░  Immer am Wachsen
+  Community    ░░░░░░░░░░░░░░░░░░░░  Im Aufbau
   Spielspaß    ████████████████████  Das Wichtigste
 ```
 
