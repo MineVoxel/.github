@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🟩 MineVoxel
+# MineVoxel
 
 **Dein Minecraft-Erlebnis. Neu gedacht.**
 
@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-minevoxel.cloud-2ea44f?style=for-the-badge)](https://minevoxel.cloud)
 [![Discord](https://img.shields.io/badge/💬_Discord-Beitreten-5865F2?style=for-the-badge)](https://mvxl.link/discord)
-[![Status](https://img.shields.io/badge/🟡_Server-Online-brightgreen?style=for-the-badge)](https://minevoxel.net)
+[![Status](https://img.shields.io/badge/🟡_Server-Wartungsarbeiten-yellow?style=for-the-badge)](https://minevoxel.net)
 
 </div>
 
