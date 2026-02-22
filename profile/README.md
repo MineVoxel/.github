@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/MineVoxelLogo.png" alt="MineVoxel Logo" width="200"/>
+<img src="MineVoxelLogo.png" alt="MineVoxel Logo" width="200"/>
 
 <br/>
 
