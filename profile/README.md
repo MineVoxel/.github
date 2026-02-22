@@ -59,31 +59,6 @@ Auf MineVoxel erwartet dich ein vielseitiges Angebot:
 - 🏙️ **CityBuild** – Baue und gestalte deine eigene Stadt
 - Und bald vieles mehr.
 
----
-
-## 👨‍💻 Das Team
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>Lee Daniel Hertel</b><br/>
-      <sub>Gründer & Lead Developer</sub><br/>
-      <sub>🏢 HertelDigital</sub><br/>
-      <a href="mailto:lhertel@herteldigital.de"><sub>lhertel@herteldigital.de</sub></a>
-    </td>
-  </tr>
-  <br>
-    <tr>
-    <td align="center" width="50%">
-      <b>TastischAPI</b><br/>
-      <sub>Administrator & Developer </sub><br/>
-      <a href="mailto:tastischapi@minevoxel.net"><sub>tastischapi@minevoxel.net</sub></a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📬 Kontakt & Links
 
 <div align="center">
