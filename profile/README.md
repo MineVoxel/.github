@@ -72,6 +72,13 @@ Auf MineVoxel erwartet dich ein vielseitiges Angebot:
       <a href="mailto:lhertel@herteldigital.de"><sub>lhertel@herteldigital.de</sub></a>
     </td>
   </tr>
+    <tr>
+    <td align="center" width="50%">
+      <b>TastischAPI</b><br/>
+      <sub>Administrator & Developer </sub><br/>
+      <a href="mailto:tastischapi@minevoxel.net"><sub>tastischapi@minevoxel.net</sub></a>
+    </td>
+  </tr>
 </table>
 
 ---
